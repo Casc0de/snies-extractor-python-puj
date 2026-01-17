@@ -113,8 +113,7 @@ The application will automatically open in your browser at `http://localhost:850
 3. **Visualize Results**: Explore data with interactive tables and charts
    ![Visualization](img/img_5.png)
 
-4. **Export**: Download processed results in CSV or JSON format
-   ![Export](img/img_9.png)
+4. **Export**: Download processed results in CSV, XLSX or JSON format
 
 ## Project Objective
 
@@ -126,7 +125,7 @@ The system follows a three-layer architecture with separation of concerns:
 
 ```
 ┌─────────────────────────────────────┐
-│   User Interface (Streamlit)       │  ← Presentation Layer
+│   User Interface (Streamlit)        │  ← Presentation Layer
 ├─────────────────────────────────────┤
 │      SNIES Controller               │  ← Business Logic Layer
 ├─────────────────────────────────────┤
@@ -189,8 +188,7 @@ snies-python-cascode/
 │
 ├── img/                     # Screenshots and visual assets
 ├── requirements.txt         # Project dependencies
-├── Resultados.csv          # Output file (CSV)
-├── Resultados.json         # Output file (JSON)
+├── LICENSE                  # License information
 └── README.md               # This file
 ```
 
@@ -286,27 +284,17 @@ classDiagram
 
 ---
 
-## Contributing
-
-Contributions are welcome. If you want to improve this project:
-
-1. Fork the repository
-2. Create a branch for your feature (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-**Esteban** - Full Stack Developer
+**Esteban Castro** - Full Stack Developer
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/esteban-castro-castro](https://www.linkedin.com/in/esteban-castro-castro-8973aa239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOjzvSq4IQtmGYIladBUX8Q%3D%3D)
+- GitHub: [@Casc0de](https://github.com/Casc0de)
+- Email: estebancastro.ec88@gmail.com
 
 ---
 
