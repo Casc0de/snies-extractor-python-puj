@@ -62,8 +62,8 @@ This project is built with the following technologies:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/tu-usuario/snies-python-cascode.git
-cd snies-python-cascode
+git clone https://github.com/Casc0de/snies-extractor-python-puj.git
+cd snies-extractor-python-puj
 ```
 
 2. **Create a virtual environment (recommended)**
